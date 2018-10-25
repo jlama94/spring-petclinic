@@ -76,8 +76,10 @@ public class Visit extends BaseEntity {
         return this.petId;
     }
 
-    public void setPetId(Integer petId) {
-        this.petId = petId;
-    }
+//    public void setPetId(Integer petId) {
+//        this.petId = petId;
+//    }
+    
+
 
 }
